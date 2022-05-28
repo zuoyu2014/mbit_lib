@@ -4,7 +4,7 @@
     "description": "Extension for YahBoom m:bit V3.0.5",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
+        "core": "*"
     },
     "files": [
         "README.md",
